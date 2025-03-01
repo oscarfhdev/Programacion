@@ -1,0 +1,1 @@
+print('Hola esto es una carta para el fututo, quiero que sepas que vas a conseguir todo lo que te propongas')
