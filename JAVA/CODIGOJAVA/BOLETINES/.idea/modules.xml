@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BOLETINES.iml" filepath="$PROJECT_DIR$/.idea/BOLETINES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin1 Variables y Condicionales/Boletin1 Variables y Condicionales.iml" filepath="$PROJECT_DIR$/Boletin1 Variables y Condicionales/Boletin1 Variables y Condicionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin2 Condicionales y Bucles/Boletin2 Condicionales y Bucles.iml" filepath="$PROJECT_DIR$/Boletin2 Condicionales y Bucles/Boletin2 Condicionales y Bucles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin3 Bucles Anidados/Boletin3 Bucles Anidados.iml" filepath="$PROJECT_DIR$/Boletin3 Bucles Anidados/Boletin3 Bucles Anidados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin4 Tablas/Boletin4 Tablas.iml" filepath="$PROJECT_DIR$/Boletin4 Tablas/Boletin4 Tablas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios de Lectura de Datos/Ejercicios de Lectura de Datos.iml" filepath="$PROJECT_DIR$/Ejercicios de Lectura de Datos/Ejercicios de Lectura de Datos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios de Variables/Ejercicios de Variables.iml" filepath="$PROJECT_DIR$/Ejercicios de Variables/Ejercicios de Variables.iml" />
+    </modules>
+  </component>
+</project>
