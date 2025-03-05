@@ -3,9 +3,6 @@ public class Dimension {
     private double ancho;
     private double profundidad;
 
-
-
-
     public Dimension(double alto, double ancho, double profundidad) {
         this.alto = alto;
         this.ancho = ancho;
@@ -40,10 +37,16 @@ public class Dimension {
         this.profundidad = profundidad;
     }
 
+    public double getVolumen(){
+        return (this.alto * this.profundidad * this.ancho);
+    }
+
     @Override
     public String toString(){
         return "Dimension con " + alto + " alto, " + ancho + " ancho, " + profundidad + " profundidad";
     }
+
+
 
 
 

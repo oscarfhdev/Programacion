@@ -47,6 +47,8 @@ public class Main {
 
         System.out.println(col);
 
+
+
         System.out.println(col.conCapa());
 
         Figura fMasValiosa = col.masValioso();
@@ -55,10 +57,8 @@ public class Main {
         System.out.println("Valor de la coleccion: "+col.getValorColeccion());
 
         System.out.println("Volumen de la coleccion: "+col.getVolumenColeccion());
-    }
-
-}
 
     }
+
 }
 
