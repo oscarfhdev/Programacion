@@ -11,7 +11,6 @@ public class Main {
             System.out.println("2 Salida de coche");
             System.out.println("3 Mostrar parking");
             System.out.println("4 Salir del programa");
-            System.out.println("-> ENTER");
 
 
             System.out.print("Ingrese un número: ");
@@ -19,7 +18,7 @@ public class Main {
             switch (opcion) {
                 case 1: {
                     System.out.println("El parking tiene " + parking.getPlazasTotales() + " plazas totales");
-                    System.out.println("Elige una plaza e introduce la matrícula de tu coche -> ENTER");
+                    System.out.println("Elige una plaza e introduce la matrícula de tu coche");
                     System.out.print("Matrícula del coche: ");
                     String matricula = sc.nextLine();
                     System.out.print("Plaza donde aparcar el coche: ");
@@ -34,7 +33,6 @@ public class Main {
 
                 }
                 case 2: {
-                    sc.nextLine();
                     System.out.print("Introduce la matrícula del coche a sacar: ");
                     String matricula = sc.nextLine();
 
