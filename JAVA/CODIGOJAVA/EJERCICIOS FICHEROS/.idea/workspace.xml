@@ -30,6 +30,7 @@
     "Application.CrearDirectorioArchivo.executor": "Run",
     "Application.Ejercicio1.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
+    "Application.Ejercicio3.executor": "Run",
     "Application.LectorArchivo.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
