@@ -28,6 +28,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CrearDirectorioArchivo.executor": "Run",
+    "Application.Ejercicio1.executor": "Run",
     "Application.LectorArchivo.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
