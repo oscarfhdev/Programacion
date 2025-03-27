@@ -7,7 +7,7 @@ public class Ejercicio4 {
     public static void main(String[] args) {
         String linea;
         File archivoDatos = new File("Ejercicio1/datos.txt");
-        // 🔹 Escribir en el archivo (append = true)
+        //  Escribir en el archivo (append = true)
         try (FileWriter fw = new FileWriter(archivoDatos, true)) {
             fw.write("\nIntento apendar esto al final, quiero comprobar si funciona");
         } catch (IOException e) {

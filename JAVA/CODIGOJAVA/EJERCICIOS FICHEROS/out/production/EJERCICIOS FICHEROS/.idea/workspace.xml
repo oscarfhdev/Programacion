@@ -31,6 +31,7 @@
     "Application.Ejercicio1.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
     "Application.Ejercicio3.executor": "Run",
+    "Application.Ejercicio4.executor": "Run",
     "Application.Ejercicio6.executor": "Run",
     "Application.LectorArchivo.executor": "Run",
     "Application.Main.executor": "Run",
