@@ -10,14 +10,14 @@ public class Ejercicio7 {
     public static void main(String[] args) {
         File archivoDatos = new File("Ejercicio1/datos.txt");
         try(BufferedReader br = new BufferedReader(new FileReader(archivoDatos))){
-        String palabraBuscada = "JAVA";
+        String palabraBuscada = "final";
         String linea;
         int apariciones = 0;
 
         while ((linea = br.readLine()) != null){
             String[] palabras = linea.trim().split("\\s+");
             for (String palabra : palabras){
-                if(palabra.equals(palabraBuscada)) {
+                if(devolverSinSignos(palabra).equals(palabraBuscada)) {
                     apariciones++;
                 }
             }
@@ -28,5 +28,10 @@ public class Ejercicio7 {
         catch (IOException e){
             System.out.println("Ha ocurrido un erro: " + e.getMessage());
         }
+    }
+
+    // Método para limpiar signos de puntuación
+    private static String devolverSinSignos(String palabra) {
+        return palabra.replaceAll("[^a-zA-Z0-9]", ""); // Quita signos de puntuación
     }
 }
