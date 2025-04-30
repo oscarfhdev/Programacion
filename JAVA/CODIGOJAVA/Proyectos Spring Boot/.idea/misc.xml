@@ -5,7 +5,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/Gestion de Productos/pom.xml" />
+        <option value="$PROJECT_DIR$/GestionDeProductos /pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Gestion de Productos/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
