@@ -17,7 +17,7 @@ public class Ejercicio7 {
         while ((linea = br.readLine()) != null){
             String[] palabras = linea.trim().split("\\s+");
             for (String palabra : palabras){
-                if(devolverSinSignos(palabra).equals(palabraBuscada)) {
+                if(devolverSinSignos(palabra).equalsIgnoreCase(palabraBuscada)) {
                     apariciones++;
                 }
             }
