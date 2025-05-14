@@ -43,6 +43,7 @@
     "Application.Main.executor": "Run",
     "Application.SerializarLista.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.ExamenCompletoTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -54,6 +55,7 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.433832",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
