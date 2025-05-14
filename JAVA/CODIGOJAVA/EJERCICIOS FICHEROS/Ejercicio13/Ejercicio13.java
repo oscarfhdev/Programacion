@@ -8,12 +8,14 @@ public class Ejercicio13{
         try(FileInputStream fis = new FileInputStream("Ejercicio13/java.png");
             FileOutputStream fos = new FileOutputStream("Ejercicio13/javaCopiado.png"))
         {
-            byte[] buffer = new byte[1024];
-            int byteLeidos;
+//            byte[] buffer = new byte[1024];
+//            int byteLeidos;
+//
+//            while ((byteLeidos = fis.read(buffer)) != -1) {
+//                fos.write(buffer, 0, byteLeidos);
+//            }
 
-            while ((byteLeidos = fis.read(buffer)) != -1) {
-                fos.write(buffer, 0, byteLeidos);
-            }
+            fis.transferTo(fos);
 
         } catch (IOException e) {
             System.out.println("Error: " + e.getMessage());
