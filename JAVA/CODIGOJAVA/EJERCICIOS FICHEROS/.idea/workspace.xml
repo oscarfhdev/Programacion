@@ -31,6 +31,8 @@
     "Application.Ejercicio1.executor": "Run",
     "Application.Ejercicio10.executor": "Run",
     "Application.Ejercicio11.executor": "Run",
+    "Application.Ejercicio12.executor": "Run",
+    "Application.Ejercicio13.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
     "Application.Ejercicio3.executor": "Run",
     "Application.Ejercicio4.executor": "Run",
@@ -40,6 +42,7 @@
     "Application.Ejercicio8.executor": "Run",
     "Application.Ejercicio9.executor": "Run",
     "Application.LectorArchivo.executor": "Run",
+    "Application.LectorCSV.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SerializarLista.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -51,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "deletionFromPopupRequiresConfirmation": "false",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/oscarfh06/Documentos/OSCAR/1DAM/PROGRAMACION/JAVA/CODIGOJAVA/EJERCICIOS FICHEROS",
+    "last_opened_file_path": "/home/oscarfh06/Documentos/OSCAR/1DAM/PROGRAMACION/JAVA/CODIGOJAVA/EJERCICIOS FICHEROS/Ejercicio13",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.433832",
@@ -61,6 +64,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ejercicio13" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
