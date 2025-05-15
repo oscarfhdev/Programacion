@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/EJERCICIOS FICHEROS.iml" filepath="$PROJECT_DIR$/.idea/EJERCICIOS FICHEROS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJERCICIOS FICHEROS 3/EJERCICIOS FICHEROS 3.iml" filepath="$PROJECT_DIR$/EJERCICIOS FICHEROS 3/EJERCICIOS FICHEROS 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJERCICIOS MOODLE/EJERCICIOS MOODLE.iml" filepath="$PROJECT_DIR$/EJERCICIOS MOODLE/EJERCICIOS MOODLE.iml" />
       <module fileurl="file://$PROJECT_DIR$/EJERCICIOS PAQUETE NIO/EJERCICIOS PAQUETE NIO.iml" filepath="$PROJECT_DIR$/EJERCICIOS PAQUETE NIO/EJERCICIOS PAQUETE NIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ejercicio Subir Nota Clase/Ejercicio Subir Nota Clase.iml" filepath="$PROJECT_DIR$/Ejercicio Subir Nota Clase/Ejercicio Subir Nota Clase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SERIALIZACION/SERIALIZACION.iml" filepath="$PROJECT_DIR$/SERIALIZACION/SERIALIZACION.iml" />
     </modules>
   </component>
 </project>

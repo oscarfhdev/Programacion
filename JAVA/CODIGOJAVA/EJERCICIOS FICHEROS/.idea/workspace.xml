@@ -28,6 +28,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CrearDirectorioArchivo.executor": "Run",
+    "Application.EjemploSerializacion.executor": "Run",
+    "Application.EjemploTransient.executor": "Run",
     "Application.Ejercicio1.executor": "Run",
     "Application.Ejercicio10.executor": "Run",
     "Application.Ejercicio11.executor": "Run",
@@ -56,7 +58,7 @@
     "deletionFromPopupRequiresConfirmation": "false",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/oscarfh06/Documentos/OSCAR/1DAM/PROGRAMACION/JAVA/CODIGOJAVA/EJERCICIOS FICHEROS/EJERCICIOS FICHEROS 3",
-    "onboarding.tips.debug.path": "/home/oscarfh06/Documentos/OSCAR/1DAM/PROGRAMACION/JAVA/CODIGOJAVA/EJERCICIOS FICHEROS/EJERCICIOS MOODLE/src/Main.java",
+    "onboarding.tips.debug.path": "/home/oscarfh06/Documentos/OSCAR/1DAM/PROGRAMACION/JAVA/CODIGOJAVA/EJERCICIOS FICHEROS/SERIALIZACION/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.433832",
@@ -69,6 +71,10 @@
       <recent name="$PROJECT_DIR$/EJERCICIOS FICHEROS 3" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Ejercicio13" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SERIALIZACION/src/SerializarLista" />
+      <recent name="$PROJECT_DIR$/SERIALIZACION/src/Ejemplo1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
