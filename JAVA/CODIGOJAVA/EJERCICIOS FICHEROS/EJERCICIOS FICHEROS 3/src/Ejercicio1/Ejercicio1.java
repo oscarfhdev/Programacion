@@ -10,8 +10,8 @@ public class Ejercicio1 {
         try(BufferedReader br = new BufferedReader(new FileReader("EJERCICIOS FICHEROS 3/Documentos/numeros.txt"))){
             String linea;
             String[] lineaSeparada;
-            Integer numeroMinimo = null;
-            Integer numeroMaximo = null;
+            Integer numeroMinimo = null; // Integer.MAX_VALUE
+            Integer numeroMaximo = null; // Integer.MIN_VALUE
             while ((linea = br.readLine()) != null){
                 lineaSeparada = linea.split("\\s+");
                 for(String numero : lineaSeparada){
