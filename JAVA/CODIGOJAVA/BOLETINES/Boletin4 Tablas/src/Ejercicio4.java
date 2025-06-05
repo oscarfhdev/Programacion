@@ -1,3 +1,5 @@
+/* 4. Leer 10 números enteros. Debemos mostrarlos en el siguiente orden: el primero, el último, el segundo, el penúltimo, el tercero, etc.*/
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;

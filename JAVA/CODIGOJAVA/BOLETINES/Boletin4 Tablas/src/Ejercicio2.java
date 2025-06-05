@@ -1,3 +1,5 @@
+/* 2. Leer 5 números y mostrarlos en orden inverso al introducido.*/
+
 import java.util.Scanner;
 public class Ejercicio2 {
     public static void main(String[] args) {

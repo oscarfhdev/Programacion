@@ -1,3 +1,4 @@
+/* 1. Leer 5 números y mostrarlos en el mismo orden introducido*/
 import java.util.Scanner;
 
 public class Ejercicio1 {
