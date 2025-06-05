@@ -1,3 +1,5 @@
+/* 10. Ídem, desplazar N posiciones** (N es introducido por el usuario). */
+
 import java.util.Arrays;
 import java.util.Scanner;
 public class Ejercicio10 {

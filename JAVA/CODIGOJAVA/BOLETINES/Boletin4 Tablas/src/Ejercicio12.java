@@ -1,3 +1,5 @@
+/* 12. Leer por teclado una tabla de 10 elementos numéricos enteros y leer una posición (entre 0 y 9). Eliminar el elemento situado en la posición dada sin dejar huecos.*/
+
 import java.util.Arrays;
 import java.util.Scanner;
 

@@ -1,3 +1,4 @@
+/* 9. Crear un programa que lea por teclado una tabla de 10 números enteros y la desplace una posición hacia abajo (el último pasa a ser el primero). */
 import java.util.Arrays;
 import java.util.Scanner;
 public class Ejercicio9 {
